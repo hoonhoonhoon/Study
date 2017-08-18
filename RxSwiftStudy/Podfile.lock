@@ -1,0 +1,20 @@
+PODS:
+  - RxBlocking (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - RxBlocking
+  - RxCocoa
+  - RxSwift
+
+SPEC CHECKSUMS:
+  RxBlocking: 4f4bd5732e8b952e54ae8a57739bcfb645de12bc
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: fc1d4304006fdfd2a056c7241deb254935506791
+
+COCOAPODS: 1.2.1
